@@ -1,1 +1,1 @@
-# financa-manager_v1
+# financa-manager v1
